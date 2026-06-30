@@ -6,6 +6,8 @@ This repository contains the implementation and architectural evaluation of thre
 The models in this repository are fine-tuned on the standardized movie review sentiment dataset:
 * **Dataset Source:** [Hugging Face - Cornell Movie Review Data (Rotten Tomatoes)](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes)
 
+## Google Colab Link
+* **Colab Link:** [ACT4 - Multi-Variant Text Analysis and Generation (BERT, GPT, and GANs)](https://colab.research.google.com/drive/1S_78vuDZqzfeshwzXB17CmznyDkv1jYZ?usp=sharing)
 
 ## Analytical Discussion
 
